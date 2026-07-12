@@ -1,0 +1,2728 @@
+==========================================
+   vECU Level 3 — Virtual CAN via SIL Kit
+==========================================
+[RTE] Connected to SIL Kit registry
+[RTE] Virtual CAN1 started
+[BUS] TX | ID=0x202 | TargetSpeed  =  80 km/h
+[RTE] Initial target speed sent: 80 km/h
+
+[RTE] Lifecycle started
+[MON] CAN monitor started on CAN1
+[RTE] Lifecycle started
+[MON] CAN monitor started on CAN1
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed=  9 km/h | Target= 80 km/h | Throttle= 40% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =   9 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 17 km/h | Target= 80 km/h | Throttle= 35% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  17 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 24 km/h | Target= 80 km/h | Throttle= 31% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  24 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 30 km/h | Target= 80 km/h | Throttle= 28% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  30 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 36 km/h | Target= 80 km/h | Throttle= 25% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  36 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 41 km/h | Target= 80 km/h | Throttle= 22% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  41 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 45 km/h | Target= 80 km/h | Throttle= 19% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  45 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 49 km/h | Target= 80 km/h | Throttle= 17% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  49 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 53 km/h | Target= 80 km/h | Throttle= 15% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  53 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 56 km/h | Target= 80 km/h | Throttle= 13% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  56 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 59 km/h | Target= 80 km/h | Throttle= 12% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  59 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 62 km/h | Target= 80 km/h | Throttle= 10% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  62 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 64 km/h | Target= 80 km/h | Throttle=  9% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  64 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 66 km/h | Target= 80 km/h | Throttle=  8% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  66 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 68 km/h | Target= 80 km/h | Throttle=  7% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  68 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 70 km/h | Target= 80 km/h | Throttle=  6% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  70 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 72 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  72 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 74 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  74 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 76 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  76 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 78 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  78 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 77 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  77 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 79 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  79 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 78 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  78 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 77 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  77 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 79 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  79 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 78 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  78 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 77 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  77 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 79 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  79 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 78 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  78 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 77 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  77 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 79 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  79 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 78 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  78 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 77 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  77 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 79 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  79 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 78 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  78 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 77 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  77 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 79 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  79 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 78 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  78 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 77 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  77 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 79 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  79 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 78 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  78 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 77 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  77 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 79 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  79 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 78 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  78 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 77 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  77 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 79 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  79 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 78 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  78 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 77 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  77 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 79 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  79 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 78 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  78 km/h
+
+[SIM] *** EMERGENCY BRAKE ***
+
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+
+[ECU] Speed= 58 km/h | Target= 80 km/h | Throttle=  0% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =  58 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  11%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  11%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  11%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  11%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  11%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  11%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  11%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  11%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  11%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  11%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed= 38 km/h | Target= 80 km/h | Throttle= 11% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =  38 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  21%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  21%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  21%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  21%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  21%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  21%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  21%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  21%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  21%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  21%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed= 18 km/h | Target= 80 km/h | Throttle= 21% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =  18 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 31% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     = 100%
+[ACT] BRAKE overrides THROTTLE: brake=100%
+
+[ECU] Speed=  0 km/h | Target= 80 km/h | Throttle= 40% | Brake=100%
+[BUS] TX | ID=0x201 | CurrentSpeed =   0 km/h
+
+[SIM] *** BRAKE RELEASED ***
+
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  40%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed=  9 km/h | Target= 80 km/h | Throttle= 40% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =   9 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  35%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 17 km/h | Target= 80 km/h | Throttle= 35% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  17 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  31%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 24 km/h | Target= 80 km/h | Throttle= 31% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  24 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  28%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 30 km/h | Target= 80 km/h | Throttle= 28% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  30 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  25%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 36 km/h | Target= 80 km/h | Throttle= 25% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  36 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  22%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 41 km/h | Target= 80 km/h | Throttle= 22% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  41 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  19%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 45 km/h | Target= 80 km/h | Throttle= 19% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  45 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  17%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 49 km/h | Target= 80 km/h | Throttle= 17% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  49 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  15%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 53 km/h | Target= 80 km/h | Throttle= 15% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  53 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  13%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 56 km/h | Target= 80 km/h | Throttle= 13% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  56 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  12%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 59 km/h | Target= 80 km/h | Throttle= 12% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  59 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =  10%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 62 km/h | Target= 80 km/h | Throttle= 10% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  62 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   9%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 64 km/h | Target= 80 km/h | Throttle=  9% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  64 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   8%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 66 km/h | Target= 80 km/h | Throttle=  8% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  66 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   7%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 68 km/h | Target= 80 km/h | Throttle=  7% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  68 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   6%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 70 km/h | Target= 80 km/h | Throttle=  6% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  70 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 72 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  72 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 74 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  74 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 76 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  76 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 78 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  78 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 77 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  77 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 79 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  79 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 78 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  78 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 77 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  77 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   5%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 79 km/h | Target= 80 km/h | Throttle=  5% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  79 km/h
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+[BUS] TX | ID=0x101 | ThrottleCmd  =   0%
+[BUS] TX | ID=0x102 | BrakeCmd     =   0%
+
+[ECU] Speed= 78 km/h | Target= 80 km/h | Throttle=  0% | Brake=  0%
+[BUS] TX | ID=0x201 | CurrentSpeed =  78 km/h

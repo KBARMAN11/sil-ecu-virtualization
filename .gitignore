@@ -1,0 +1,20 @@
+# Build outputs
+*.exe
+*.dll
+*.pdb
+*.o
+*.obj
+
+# Packaged FMUs (regenerate from source — see README "Building")
+*.fmu
+
+# Third-party tools / reference repos — not this project's code
+SilKitFmuImporter/
+fmi-ls-bus/
+fmi3/
+
+# OS / editor junk
+.vscode/
+*.log
+Thumbs.db
+.DS_Store

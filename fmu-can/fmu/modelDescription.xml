@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fmiModelDescription
+    fmiVersion="3.0"
+    modelName="vECU_SpeedController"
+    instantiationToken="{1234-5678-vecu-speed}"
+    description="Virtual ECU - Speed and Brake Controller with virtual CAN bus via FMI-LS-BUS"
+    version="1.0"
+    generationTool="Hand-built from scratch"
+    generationDateAndTime="2026-06-20T00:00:00Z">
+
+  <CoSimulation
+      modelIdentifier="vECU_SpeedController"
+      canHandleVariableCommunicationStepSize="true"
+      hasEventMode="false"/>
+
+  <ModelVariables>
+
+    <Float64 name="time"
+             valueReference="0"
+             causality="independent"
+             variability="continuous"
+             description="Simulation time"/>
+
+    <Clock name="CAN1.Tx_Clock"
+           valueReference="1"
+           causality="output"
+           variability="discrete"
+           intervalVariability="changing"/>
+
+    <Binary name="CAN1.Tx_Data"
+            valueReference="2"
+            causality="output"
+            variability="discrete"
+            mimeType="application/org.fmi-standard.fmi-ls-bus.can; version=&quot;1.0.0&quot;"
+            clocks="1">
+      <Start value=""/>
+    </Binary>
+
+    <Clock name="CAN1.Rx_Clock"
+           valueReference="3"
+           causality="input"
+           variability="discrete"
+           intervalVariability="triggered"/>
+
+    <Binary name="CAN1.Rx_Data"
+            valueReference="4"
+            causality="input"
+            variability="discrete"
+            mimeType="application/org.fmi-standard.fmi-ls-bus.can; version=&quot;1.0.0&quot;"
+            clocks="3">
+      <Start value=""/>
+    </Binary>
+
+  </ModelVariables>
+
+  <ModelStructure>
+    <Output valueReference="1"/>
+    <Output valueReference="2"/>
+    <InitialUnknown valueReference="1"/>
+  </ModelStructure>
+
+</fmiModelDescription>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fmiModelDescription
+  fmiVersion="3.0"
+  modelName="VehiclePlant"
+  instantiationToken="{11111111-2222-3333-4444-555555555555}"
+  description="Longitudinal vehicle plant model: throttle/brake cmd inputs, speed output. Mass=1000kg, dt=0.1s."
+  version="1.0"
+  author="Karan Barman"
+  generationTool="GCC (MinGW-w64) on Windows"
+  generationDateAndTime="2026-06-30T00:00:00Z">
+
+  <CoSimulation
+    modelIdentifier="plant_fmu"
+    canHandleVariableCommunicationStepSize="false"
+    fixedInternalStepSize="0.1"
+    maxOutputDerivativeOrder="0"
+    canGetAndSetFMUState="false"
+    canSerializeFMUState="false"
+    hasEventMode="false"/>
+
+  <LogCategories>
+    <Category name="info"  description="General informational messages"/>
+    <Category name="warn"  description="Warning messages"/>
+    <Category name="error" description="Error messages"/>
+  </LogCategories>
+
+  <ModelVariables>
+
+    <!-- Independent variable — required by FMI 3.0 -->
+    <Float64
+      valueReference="3"
+      name="time"
+      causality="independent"
+      variability="continuous"
+      description="Simulation time [s]"/>
+
+    <!--
+      VR 0 — throttle_cmd
+      Input from vECU FMU SpeedController output [0..100]
+    -->
+    <Float64
+      valueReference="0"
+      name="throttle_cmd"
+      causality="input"
+      variability="continuous"
+      start="0.0"
+      description="Throttle command from vECU [0..100]"/>
+
+    <!--
+      VR 1 — brake_cmd
+      Input from vECU FMU BrakeController output [0..100]
+    -->
+    <Float64
+      valueReference="1"
+      name="brake_cmd"
+      causality="input"
+      variability="continuous"
+      start="0.0"
+      description="Brake command from vECU [0..100]"/>
+
+    <!--
+      VR 2 — current_speed
+      Output back to vECU FMU SpeedController feedback [km/h]
+      initial="exact" required to allow a start value on a continuous output
+    -->
+    <Float64
+      valueReference="2"
+      name="current_speed"
+      causality="output"
+      variability="continuous"
+      initial="exact"
+      start="0.0"
+      description="Current vehicle speed [km/h]"/>
+
+  </ModelVariables>
+
+  <ModelStructure>
+    <Output valueReference="2"/>
+  </ModelStructure>
+
+
+</fmiModelDescription>

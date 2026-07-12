@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fmiLayeredStandardManifest
+    xmlns:fmi-ls="http://fmi-standard.org/fmi-ls-manifest"
+    fmi-ls:fmi-ls-name="org.fmi-standard.fmi-ls-bus"
+    fmi-ls:fmi-ls-version="1.0.0"
+    fmi-ls:fmi-ls-description="FMI Layered Standard for Network Communication"
+    isBusSimulationFMU="false"/>

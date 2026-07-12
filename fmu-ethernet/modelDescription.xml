@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fmiModelDescription
+    fmiVersion="3.0"
+    modelName="vECU_SpeedController_Eth"
+    instantiationToken="{1234-5678-vecu-eth}"
+    description="Virtual ECU - Speed and Brake Controller with virtual Ethernet via FMI-LS-BUS"
+    version="1.0"
+    generationTool="Hand-built from scratch"
+    generationDateAndTime="2026-06-29T00:00:00Z">
+
+  <CoSimulation
+      modelIdentifier="vecu_eth_fmu"
+      canHandleVariableCommunicationStepSize="true"
+      hasEventMode="false"
+      fixedInternalStepSize="0.001"/>
+
+  <DefaultExperiment
+      startTime="0.0"
+      stopTime="5.0"
+      stepSize="0.001"/>
+
+  <ModelVariables>
+
+    <Float64 name="time"
+             valueReference="0"
+             causality="independent"
+             variability="continuous"
+             description="Simulation time"/>
+
+    <Clock name="ETH1.Tx_Clock"
+           valueReference="1"
+           causality="output"
+           variability="discrete"
+           intervalVariability="triggered"/>
+
+    <Binary name="ETH1.Tx_Data"
+            valueReference="2"
+            causality="output"
+            variability="discrete"
+            mimeType="application/org.fmi-standard.fmi-ls-bus.ethernet; version=&quot;1.2.0-alpha&quot;"
+            clocks="1">
+      <Start value=""/>
+    </Binary>
+
+    <Clock name="ETH1.Rx_Clock"
+           valueReference="3"
+           causality="input"
+           variability="discrete"
+           intervalVariability="triggered"/>
+
+    <Binary name="ETH1.Rx_Data"
+            valueReference="4"
+            causality="input"
+            variability="discrete"
+            mimeType="application/org.fmi-standard.fmi-ls-bus.ethernet; version=&quot;1.2.0-alpha&quot;"
+            clocks="3">
+      <Start value=""/>
+    </Binary>
+
+  </ModelVariables>
+
+  <ModelStructure>
+    <Output valueReference="1"/>
+    <Output valueReference="2"/>
+    <InitialUnknown valueReference="1"/>
+  </ModelStructure>
+
+</fmiModelDescription>

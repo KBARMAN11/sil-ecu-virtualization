@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fmiManifest xmlns:fmi-ls="http://fmi-standard.org/fmi-ls-manifest"
+  fmi-ls:fmi-ls-name="org.fmi-standard.fmi-ls-bus"
+  fmi-ls:fmi-ls-version="1.2.0-alpha"
+  fmi-ls:fmi-ls-description="FMI Layered Standard for Network Communication (Ethernet)"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BusType>
+    <Ethernet/>
+  </BusType>
+</fmiManifest>

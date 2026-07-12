@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fmiTerminalsAndIcons fmiVersion="3.0">
+  <Terminals>
+    <Terminal
+        terminalKind="org.fmi-ls-bus.network-terminal"
+        name="CAN1"
+        matchingRule="org.fmi-ls-bus.transceiver"
+        description="Virtual CAN bus — ThrottleCmd, BrakeCmd, CurrentSpeed, TargetSpeed">
+      <TerminalMemberVariable variableKind="signal"
+          variableName="CAN1.Tx_Clock" memberName="Tx_Clock"/>
+      <TerminalMemberVariable variableKind="signal"
+          variableName="CAN1.Tx_Data"  memberName="Tx_Data"/>
+      <TerminalMemberVariable variableKind="signal"
+          variableName="CAN1.Rx_Clock" memberName="Rx_Clock"/>
+      <TerminalMemberVariable variableKind="signal"
+          variableName="CAN1.Rx_Data"  memberName="Rx_Data"/>
+    </Terminal>
+  </Terminals>
+</fmiTerminalsAndIcons>
