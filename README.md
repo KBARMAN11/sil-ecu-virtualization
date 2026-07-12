@@ -202,7 +202,8 @@ Expected output: speed climbs from 0, SpeedController reduces throttle as target
 
 ## Known open issue
 
-[`vectorgrp/sil-kit`](https://github.com/vectorgrp/sil-kit) — *"Coordinated lifecycle ends immediately despite all required participants connecting (C API, Windows/MinGW)."* `SimStepHandler` never invoked (0 steps, final state code 0) even with a fresh registry, system controller, and two minimal participants connected. Minimal repro in `silkit-issue-repro/`. **Status: open.**
+See [Issue #1](https://github.com/KBARMAN11/sil-ecu-virtualization/issues/1) 
+for a minimal repro of a SIL Kit coordinated lifecycle bug on Windows/MinGW —`SimStepHandler` never invoked despite all participants connecting. Also filed on [vectorgrp/sil-kit](https://github.com/vectorgrp/sil-kit). **Status: open.**
 
 ## Acknowledgements
 
