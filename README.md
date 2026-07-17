@@ -200,7 +200,7 @@ Expected output: speed climbs from 0, SpeedController reduces throttle as target
 | Speed stays 0, throttle stays 0 | `UnpackRxFrames` was writing to `targetSpeed` not `currentSpeed` — fixed |
 | Speed converges below target | P-controller deadband too wide; added feedforward offset and hold state at error=0 |
 
-## Known open issue
+## Known issue
 
 See [Issue #1](https://github.com/KBARMAN11/sil-ecu-virtualization/issues/1) 
 for a minimal repro of a SIL Kit coordinated lifecycle bug on Windows/MinGW —`SimStepHandler` never invoked despite all participants connecting. Also filed on [vectorgrp/sil-kit](https://github.com/vectorgrp/sil-kit). **Status: resolved — fixed in silkit-issue-repro/src/** Root cause identified by Vector SIL Kit maintainer — two fixes required in the C API: (1) use `SilKit_Struct_Init(SilKit_LifecycleConfiguration, lc)` instead of `memset` to correctly initialize internal struct versioning fields; (2) pass `&finalState` not `NULL` to `WaitForLifecycleToComplete`. Fixed code in `silkit-issue-repro/src/`.
@@ -208,7 +208,7 @@ for a minimal repro of a SIL Kit coordinated lifecycle bug on Windows/MinGW —`
 
 ## Acknowledgements
 
-Thanks to Christian Bertsch (FMI Project Leader, Bosch Research / Modelica Association) for confirming Direct Communication mode for the Ethernet beta and pointing to FMI-LS-BUS GitHub Discussions for support.
+Thanks to Christian Bertsch (FMI Project Leader, Bosch Research / Modelica Association) for confirming Direct Communication mode for the Ethernet beta and pointing to FMI-LS-BUS GitHub Discussions for support And Konrad Breitsprecher (Vector) — identified the root cause of the SIL Kit Coordinated lifecycle issue and provided the exact fix
 
 ## License
 
