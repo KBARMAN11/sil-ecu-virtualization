@@ -18,3 +18,10 @@ fmi3/
 *.log
 Thumbs.db
 .DS_Store
+*.exe
+*.dll
+*.o
+*.lib
+desktop.ini
+*.zip
+output.txt
