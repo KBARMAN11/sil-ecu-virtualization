@@ -251,9 +251,26 @@ FMI3_EXPORT fmi3Status fmi3DoStep(
     (void)noSetFMUStatePriorToCurrentPoint;
     PlantFMU* s = (PlantFMU*)instance;
 
+    /* Validate communicationStepSize is a positive integer multiple of DT.
+     * Fix: previously physics_step() ran once regardless of h, causing elapsed time mismatch for h != DT.
+     */
+    int steps = (int)(communicationStepSize / DT + 0.5);
+    if (steps < 1 ||
+        fabs(steps * DT - communicationStepSize) > 1e-9) {
+        fprintf(stderr,
+            "[PlantFMU] Invalid step size h=%.6f — "
+            "must be a positive integer multiple of DT=%.6f\n",
+            communicationStepSize, DT);
+        if (terminate) *terminate = fmi3True;
+        return fmi3Error;
+    }
+
+    /* Run physics exactly 'steps' times with held inputs */
     s->sim_time = currentCommunicationPoint;
-    physics_step(s);
-    s->sim_time += communicationStepSize;
+    for (int i = 0; i < steps; i++) {
+        physics_step(s);
+        s->sim_time += DT;
+    }
 
     if (eventHandlingNeeded) *eventHandlingNeeded = fmi3False;
     if (terminate)           *terminate           = fmi3False;
